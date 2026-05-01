@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is the ability of machines to learn patterns, make decisions, and improve over time without being explicitly programmed.
+
+Modern AI is powered by data, algorithms, and computing power. Machine learning allows systems to learn from examples, while deep learning uses neural networks to understand complex patterns like language, images, and speech.
+
+Large Language Models (LLMs) like GPT can generate text, answer questions, and assist in coding by predicting the next word based on context.
+
+The future of AI is not just intelligence, but augmentation — helping humans think faster, build faster, and create at scale.
